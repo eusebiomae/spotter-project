@@ -1,0 +1,1 @@
+export { default as LogoMain } from "./logo-main.png";
